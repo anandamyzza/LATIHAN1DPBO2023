@@ -42,7 +42,7 @@ C++, Java, dan Python memiliki alur program yang sama, yaitu sebagai berikut:
 
 ![image](https://user-images.githubusercontent.com/100767177/219069081-ac897270-f19b-477a-a40d-a9a27842e2ba.png)
 
-Note: Di bahasa PHP, inputan dilakukan secara hardcode.
+*Note: Di bahasa PHP, inputan dilakukan secara hardcode.*
 
 ## Dokumentasi
 #### 1. PHP
