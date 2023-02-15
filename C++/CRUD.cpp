@@ -99,4 +99,9 @@ public:
 
         return temp; // Return nilai temp.
     }
+    
+    /* Destructor */
+    ~CRUD()
+    {
+    }
 };
