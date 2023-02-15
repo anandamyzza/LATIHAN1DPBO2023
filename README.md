@@ -6,10 +6,8 @@ Buatlah program berbasis OOP menggunakan bahasa pemrograman C++, Java, Python, d
 
 ## Desain Program
 Terdapat 2 class di program ini, yaitu:
-1. Class Mahasiswa
-Class Mahasiswa memiliki 4 atribut umum yaitu name (Nama), NIM (Nomor Induk Mahasiswa), major (Program Studi), faculty (Fakultas) dan 1 atribut tambahan di bahasa PHP, photo (Foto Profil). Setiap atribut pada class ini diberi setter dan getter.
-2. Class CRUD 
-Class CRUD merupakan class yang dibuat untuk metode Create (Menambahkan data, create()), Read (Menampilkan data, read()), Update (Mengubah data, update()), dan Delete (Menghapus data, remove()), serta 1 metode tambahan untuk membantu proses update dan delete yaitu search (Mencari data berdasarkan NIM, search()). Class ini memiliki 1 atribut dinamakan data yang merupakan List of Object dari Class Mahasiswa.
+1. **Class Mahasiswa** memiliki 4 atribut umum yaitu name (Nama), NIM (Nomor Induk Mahasiswa), major (Program Studi), faculty (Fakultas) dan 1 atribut tambahan di bahasa PHP, photo (Foto Profil). Setiap atribut pada class ini diberi setter dan getter.
+2. **Class CRUD** merupakan class yang dibuat untuk metode Create (Menambahkan data, create()), Read (Menampilkan data, read()), Update (Mengubah data, update()), dan Delete (Menghapus data, remove()), serta 1 metode tambahan untuk membantu proses update dan delete yaitu search (Mencari data berdasarkan NIM, search()). Class ini memiliki 1 atribut dinamakan data yang merupakan List of Object dari Class Mahasiswa.
 
 ## Alur Program
 C++, Java, dan Python memiliki alur program yang sama, yaitu sebagai berikut:
@@ -47,9 +45,9 @@ C++, Java, dan Python memiliki alur program yang sama, yaitu sebagai berikut:
 Note: Di bahasa PHP, inputan dilakukan secara hardcode.
 
 ## Dokumentasi
-### 1. PHP
+#### 1. PHP
 ![Dokumentasi](https://user-images.githubusercontent.com/100767177/219070194-c292054a-c73e-4456-91ca-98c47c47845b.png)
 
-### 2. Python
+#### 2. Python
 ![Dokumentasi_1](https://user-images.githubusercontent.com/100767177/219070637-bf413c56-d077-4ed3-8570-d864b1b80894.png)
 ![Dokumentasi_2](https://user-images.githubusercontent.com/100767177/219070692-01adb995-16df-4eeb-b5d1-a28e71b11704.png)
